@@ -1,4 +1,4 @@
 Google.com 
-https://rogerdudler.github.io/git-guide/ for Github stuff.
+http://rogerdudler.github.io/git-guide/
 https://www.youtube.com/results?search_query=jupyter+notebook
 https://www.kaggle.com/skalskip/iris-data-visualization-and-knn-classification
