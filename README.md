@@ -1,1 +1,1 @@
-# Jupyter Notebook workshop at SDSU AI club.
+# Jupyter Notebook workshop for SDSU AI club.
